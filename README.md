@@ -44,7 +44,7 @@ The application will also function offline.
 ## The following image shows the application's IndexedDB storage: 
 ![image of the application 3](./assets/images/Screenshot7.png)
 
-## The following image shows the application's been install on my laptop:
+## The following image shows the application's been installed on my laptop:
 ![image of the application 3](./assets/images/Screenshot8.png)
 ## Installation
 To install the project follow these steps:
