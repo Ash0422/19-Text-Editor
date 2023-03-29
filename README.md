@@ -43,6 +43,9 @@ The application will also function offline.
 ![image of the application 3](./assets/images/Screenshot6.png)
 ## The following image shows the application's IndexedDB storage: 
 ![image of the application 3](./assets/images/Screenshot7.png)
+
+## The following image shows the application's been install on my laptop:
+![image of the application 3](./assets/images/Screenshot8.png)
 ## Installation
 To install the project follow these steps:
 ```
@@ -52,7 +55,11 @@ To install the project follow these steps:
    npm install
 3- Run the app with:
    npm start
+4- gor to the browser and run localhost:3000
 ```
+Or you can : 
+go to this link: https://text-editor-x.herokuapp.com/
+and install the application.
 
 ## Usage and DEMO.
 
@@ -101,12 +108,12 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 ## Tests
 This application has been tested by the creator and it works fine.<br>
 this application has been uploaded to github: https://github.com/Ash0422/19-Text-Editor <br>
-this application has been uploaded to Heroku: https://github.com/Ash0422/19-Text-Editor
+this application has been uploaded to Heroku: https://text-editor-x.herokuapp.com/
 
 ## Credits
 - https://www.npmjs.com/package/express
-- https://www.npmjs.com/package/mongoose
-- Our classes records. 
+- https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
+- Our class record. 
 
 ## Questions
 For any additional questions, please contact me at chibane.tkd04@gmail.com or visit my GitHub profile at https://github.com/Ash0422.
