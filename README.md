@@ -28,10 +28,6 @@ The application will also function offline.
 
 ![image of the application 1](./assets/images/Screenshot1.png)
 
-## Screenshot of the successfully listening on port 3001
-
-![image of the application 2](./assets/images/Screenshot2.png)
-
 ## Screenshot of the application
 
 ![image of the application 3](./assets/images/Screenshot3.png)
